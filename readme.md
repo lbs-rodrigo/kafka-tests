@@ -8,3 +8,6 @@
 
 	Consumidores (Consumer): são os que lêem e processam esses eventos
 
+## Quick Start
+
+	https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html
