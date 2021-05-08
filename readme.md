@@ -1,8 +1,4 @@
-# Soluções de Streaming de Dados (Data Streaming)
-
-## Google Data Flow 
-	Não possui integração com .NET
-	O valor medio é R$ 484/mes
+# Event Streaming
 
 ## Kafka
 
@@ -11,7 +7,4 @@
 	Produtores (Producer): são os aplicativos clientes que publicam ou gravam eventos no Kafka
 
 	Consumidores (Consumer): são os que lêem e processam esses eventos
-
-curl --silent --output docker-compose.yml https://raw.githubusercontent.com/confluentinc/cp-all-in-one/6.1.1-post/cp-all-in-one/docker-compose.yml
-
 
